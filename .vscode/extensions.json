@@ -1,7 +1,3 @@
 {
-    "recommendations": [
-        "ms-playwright.playwright",
-        "dbaeumer.vscode-eslint",
-        "rvest.vs-code-prettier-eslint"
-    ]
+  "recommendations": ["ms-playwright.playwright", "dbaeumer.vscode-eslint"]
 }

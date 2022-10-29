@@ -2,10 +2,6 @@
   "root": true,
   "parser": "@typescript-eslint/parser",
   "plugins": ["@typescript-eslint", "prettier"],
-
-  "extends": [
-    "plugin:playwright/playwright-test",
-    "prettier"
-  ],
+  "extends": ["plugin:playwright/playwright-test", "prettier"],
   "rules": { "prettier/prettier": "error" }
 }

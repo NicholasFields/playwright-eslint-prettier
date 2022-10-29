@@ -1,0 +1,21 @@
+{
+  "name": "playwright-eslint-prettier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasFields/playwright-eslint-prettier.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicholasFields/playwright-eslint-prettier/issues"
+  },
+  "homepage": "https://github.com/NicholasFields/playwright-eslint-prettier#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}

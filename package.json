@@ -20,6 +20,7 @@
   "homepage": "https://github.com/NicholasFields/playwright-eslint-prettier#readme",
   "devDependencies": {
     "@playwright/test": "^1.27.1",
+    "@types/node": "^18.11.7",
     "@typescript-eslint/eslint-plugin": "^5.41.0",
     "@typescript-eslint/parser": "^5.41.0",
     "eslint-config-prettier": "^8.5.0",

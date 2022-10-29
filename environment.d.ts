@@ -6,6 +6,8 @@ declare global {
      */
     interface ProcessEnv {
       APP_URL: string;
+      APP_USERNAME: string;
+      APP_PASSWORD: string;
     }
   }
 }
